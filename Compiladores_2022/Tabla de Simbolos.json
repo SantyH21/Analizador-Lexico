@@ -1,0 +1,131 @@
+[
+{
+	"token" : "pro",
+	"lexema" : "programa",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "int",
+	"lexema" : "int",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "char",
+	"lexema" : "char",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "float",
+	"lexema" : "float",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "leer",
+	"lexema" : "leer",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "imp",
+	"lexema" : "imprimir",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "+",
+	"lexema" : "+",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "-",
+	"lexema" : "-",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "*",
+	"lexema" : "*",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "/",
+	"lexema" : "/",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "=",
+	"lexema" : "=",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "ter",
+	"lexema" : "terminar",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "min",
+	"lexema" : "mientras",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "si",
+	"lexema" : "si",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "sino",
+	"lexema" : "sino",
+	"palabraReservada" : "True"
+},
+{
+	"token" : ",",
+	"lexema" : ",",
+	"palabraReservada" : "True"
+},
+{
+	"token" : ";",
+	"lexema" : ";",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "'",
+	"lexema" : "int",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "(",
+	"lexema" : "(",
+	"palabraReservada" : "True"
+},
+{
+	"token" : ")",
+	"lexema" : ")",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "{",
+	"lexema" : "{",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "}",
+	"lexema" : "}",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "&",
+	"lexema" : "&",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "&&",
+	"lexema" : "&&",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "|",
+	"lexema" : "|",
+	"palabraReservada" : "True"
+},
+{
+	"token" : "||",
+	"lexema" : "||",
+	"palabraReservada" : "True"
+}]
